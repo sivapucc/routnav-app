@@ -32,7 +32,7 @@ function Home() {
     <div className="main-container">
       <main>
         <img
-          src="https://scontent.fmaa1-1.fna.fbcdn.net/v/t39.30808-6/430123847_886508056818862_8983862973917551115_n.png?stp=dst-png_s960x960&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Mhu0potD8TMAX9iH0-a&_nc_ht=scontent.fmaa1-1.fna&oh=00_AfAwaTYQmhNrGr5i-0SZNL7HocRXh1jJ_Knfe3yUiEHddw&oe=65F6D436"
+          src="https://asset.brandfetch.io/id3BHBKuok/idfRJkLsZt.jpeg"
           alt="banner"
         />
       </main>
