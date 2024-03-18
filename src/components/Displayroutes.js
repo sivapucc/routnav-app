@@ -10,7 +10,7 @@ function Displayroutes() {
       <BrowserRouter>
         <Routes>
           <Route
-            path="routenav.netlify.app/home"
+            path="/home"
             element={
               <Base>
                 <Home />
