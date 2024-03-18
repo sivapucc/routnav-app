@@ -1,6 +1,6 @@
 import { Card } from "react-bootstrap";
 import Nav from "react-bootstrap/Nav";
-import datas from "../../public/Data/Data";
+import datas from "../Data/Data";
 import { useState } from "react";
 function Displaycourses({ course }) {
   return (
