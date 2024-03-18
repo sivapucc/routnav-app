@@ -18,7 +18,6 @@ function Base({ children }) {
                 <Nav.Link href="/courses">Courses</Nav.Link>
                 <Nav.Link href="/login">Login</Nav.Link>
               </Nav>
-
               <Button variant="outline-success">SignUp</Button>
             </Navbar.Collapse>
           </Container>

@@ -7,7 +7,7 @@ import Base from "./Base";
 function Displayroutes() {
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Routes>
           <Route
             path="/"
