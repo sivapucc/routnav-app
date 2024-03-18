@@ -10,7 +10,7 @@ function Displayroutes() {
       <BrowserRouter>
         <Routes>
           <Route
-            path="/home"
+            path="/"
             element={
               <Base>
                 <Home />

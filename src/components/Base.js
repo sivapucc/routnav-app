@@ -10,7 +10,7 @@ function Base({ children }) {
       <header>
         <Navbar expand="lg" className="bg-body-tertiary">
           <Container fluid>
-            <Navbar.Brand href="/home" className="nav-img">
+            <Navbar.Brand href="/" className="nav-img">
               <img src="./guvi.png" alt="guvi" />
             </Navbar.Brand>
             <Navbar.Collapse className="dflex">
