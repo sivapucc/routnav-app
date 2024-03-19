@@ -6,8 +6,8 @@ function Displaycourses({ course }) {
   return (
     <div className="disp">
       {course.map((ele, idx) => (
-        <Card style={{ width: "18rem" }} className="cards" key={idx}>
-          <Card.Img variant="top" src={ele.imgurl} />
+        <Card className="cards" key={idx}>
+          <Card.Img variant="top" src={ele.imgurl} className="card-imgs" />
           <Card.Body>
             <Card.Text>{ele.title}</Card.Text>
           </Card.Body>

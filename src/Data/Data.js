@@ -1,26 +1,21 @@
 const datas = [
   {
-    imgurl:
-      "https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html.jpg",
+    imgurl: "./fullstackfive.jpg",
     stream: "full-stack",
     title: "Best Full-Stack Development Project Ideas in 2024",
   },
   {
-    imgurl:
-      "https://www.guvi.in/blog/wp-content/uploads/2021/09/Full-Stack-Developer-course-syllabus.png",
+    imgurl: "./fullstackone.jpg",
     stream: "full-stack",
     title: "How Long Would It Take to Be a Full Stack Developer?",
   },
   {
-    imgurl:
-      "https://www.guvi.in/blog/wp-content/uploads/2023/07/how-long-it-would-it-take-to-learn-full-stack-development_-1536x804.webp",
+    imgurl: "./fullstackseven.jpg",
     stream: "full-stack",
-    title:
-      "Hot Topics That You Need To Know In Full Stack Developer Syllabus | 2024 ",
+    title: "Hot Topics That You Need To Know In Full Stack Developer 2024 ",
   },
   {
-    imgurl:
-      "https://www.guvi.in/blog/wp-content/uploads/2023/02/1_6rDcIgFJQldloIERiUSmzw.png",
+    imgurl: "./fullstackthree.jpg",
     stream: "full-stack",
     title: "How does Apache work? A detailed introduction to Apache",
   },
@@ -31,8 +26,7 @@ const datas = [
     title: "6 Essential Prerequisites For Learning ReactJS",
   },
   {
-    imgurl:
-      "https://www.guvi.in/blog/wp-content/uploads/2023/08/Feature-image-Best-Full-Stack-Development-Online-Courses.webp",
+    imgurl: "./fullstackfour.jpg",
     stream: "full-stack",
     title: "7 Best Full-Stack Development Online Courses [2024]",
   },
@@ -49,32 +43,27 @@ const datas = [
     title: "Top 10 High Paying Non-Coding Jobs in Data Science in 2024",
   },
   {
-    imgurl:
-      "https://www.guvi.in/blog/wp-content/uploads/2022/06/5.-data-science-1536x804.png",
+    imgurl: "./dsone.jpg",
     stream: "data-science",
     title: "Can A Commerce Student Do Data Science?",
   },
   {
-    imgurl:
-      "https://www.guvi.in/blog/wp-content/uploads/2023/01/paper-analysis-2-1536x1024.jpg",
+    imgurl: "./dstwo.jpg",
     stream: "data-science",
     title: "How to become a Data Scientist after Mechanical Engineering?",
   },
   {
-    imgurl:
-      "https://www.guvi.in/blog/wp-content/uploads/2023/07/image-4-1536x866.png",
+    imgurl: "./dsthree.jpg",
     stream: "data-science",
     title: "Roles and Responsibilities of a Data Scientist",
   },
   {
-    imgurl:
-      "https://www.guvi.in/blog/wp-content/uploads/2022/06/Data-Science-vs-Data-Analytics-The-Best-Career-Choice-in-2022-1536x864.png",
+    imgurl: "./dsfour.jpg",
     stream: "data-science",
     title: "Data Science vs Data Analytics | Best Career Choice in 2024",
   },
   {
-    imgurl:
-      "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-1536x864.png",
+    imgurl: "./cyberone.jpg",
     stream: "cyber-security",
     title: "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
   },
@@ -85,14 +74,12 @@ const datas = [
     title: "Non-Coding Jobs in Cybersecurity: A Comprehensive Guide",
   },
   {
-    imgurl:
-      "https://www.guvi.in/blog/wp-content/uploads/2022/11/Teal-Illustration-Digital-Business-Blog-Banner-1-1536x864.png",
+    imgurl: "./cybertwo.jpg",
     stream: "cyber-security",
     title: "8 Different Types of Cybersecurity and Threats Involved",
   },
   {
-    imgurl:
-      "https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif",
+    imgurl: "./cyberthree.jpg",
     stream: "cyber-security",
     title:
       "What is Cybersecurity? Importance and its uses & the growing challenges in 2023!",
@@ -104,8 +91,7 @@ const datas = [
     title: "What Is Hacking? Types of Hacking & More",
   },
   {
-    imgurl:
-      "https://www.guvi.in/blog/wp-content/uploads/2021/03/Blog-9-600x314.png",
+    imgurl: "./cyberfour.jpg",
     stream: "cyber-security",
     title: "Top 7 Cyber Security Attacks in Real Life",
   },
@@ -116,32 +102,27 @@ const datas = [
     title: "10 Best DevOps Project Ideas for 2024",
   },
   {
-    imgurl:
-      "https://www.guvi.in/blog/wp-content/uploads/2023/07/feature-image-Best-YouTube-Channels-to-Learn-DevOps-from-Scratch.jpg",
+    imgurl: "./dvone.jpg",
     stream: "devops",
     title: "9 Best YouTube Channels to Learn DevOps from Scratch",
   },
   {
-    imgurl:
-      "https://www.guvi.in/blog/wp-content/uploads/2023/05/2202.i402.018.S.m004.c13.Devops-engineer-flat-composition-1536x1182.jpg",
+    imgurl: "./dvtwo.jpg",
     stream: "devops",
     title: "As a Software Engineer, How Do I Shift My Career to DevOps?",
   },
   {
-    imgurl:
-      "https://www.guvi.in/blog/wp-content/uploads/2022/08/BZb9bZWpFDE33w11QCSB3e35BYvZ2Y4MdkmSMu9d.png",
+    imgurl: "./dvthree.jpg",
     stream: "devops",
     title: "A day in the life of a DevOps Engineer: Work & What they do?",
   },
   {
-    imgurl:
-      "https://www.guvi.in/blog/wp-content/uploads/2023/08/Featured-image-Best-Way-to-Learn-DevOps-1536x804.webp",
+    imgurl: "./dvfour.jpg",
     stream: "devops",
     title: "How Long Will It Take to Learn DevOps?",
   },
   {
-    imgurl:
-      "https://www.guvi.in/blog/wp-content/uploads/2022/06/8.-Devops-Syllabus-1536x804.png",
+    imgurl: "./dvfive.jpg",
     stream: "devops",
     title: "7 Best DevOps Online Courses for Beginners in 2024",
   },
